@@ -1,6 +1,6 @@
 baseURL = "https://yourusername.github.io/notifuturo-site/"
 languageCode = "es"
-title = "Notifuturo"
+title = "NotiFuturo"
 pagerSize = 5
 enableGitInfo = true
 theme = "PaperMod"
