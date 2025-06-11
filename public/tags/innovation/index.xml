@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>NotiFuturo</title>
-    <link>http://localhost:1313/notifuturo-site/</link>
-    <description>Recent content on NotiFuturo</description>
+    <title>Innovation on NotiFuturo</title>
+    <link>http://localhost:1313/notifuturo-site/tags/innovation/</link>
+    <description>Recent content in Innovation on NotiFuturo</description>
     <generator>Hugo -- 0.147.7</generator>
     <language>es</language>
     <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/notifuturo-site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/notifuturo-site/tags/innovation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PCs con IA y CPUs de refrigeración líquida: la próxima ola de innovación tecnológica</title>
       <link>http://localhost:1313/notifuturo-site/news/ai-pcs-liquid-cooled-cpus/</link>
